@@ -25,5 +25,5 @@
   <a href = "mailto:marcosviniciusvi4n4silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-vin%C3%ADcius-viana-761647222" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-   ![Snake animation](https://github.com/Marcosvi4n4/MArcosvi4n4/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Marcosvi4n4/Marcosvi4n4/blob/output/github-contribution-grid-snake.svg)
 </div>
